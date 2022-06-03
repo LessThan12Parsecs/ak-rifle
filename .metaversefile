@@ -1,0 +1,22 @@
+{
+  "name": "Ak47",
+  "description": "automatic-rifle",
+  "start_url": "index.js",
+  "components": [
+    {
+      "key": "aim",
+      "value": {
+        "ikHand": "right",
+        "playerAnimation": "rifleAim",
+        "ik": "rifle"
+      }
+    },
+    {
+      "key": "use",
+      "value": {
+
+        "ik": "rifle"
+      }
+    }
+  ]
+}
