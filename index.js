@@ -224,10 +224,6 @@ export default e => {
         {
           "key": "use",
           "value": {
-            "animationEnvelope": [
-              "rifleAim",
-              "rifleReload"
-            ],
             "ik": "rifle"
           }
         }

@@ -7,8 +7,7 @@
       "key": "aim",
       "value": {
         "ikHand": "right",
-        "playerAnimation": "rifleAim",
-        "ik": "rifle"
+        "playerAnimation": "rifleAim"
       }
     },
     {
